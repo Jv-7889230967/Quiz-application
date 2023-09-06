@@ -1,0 +1,42 @@
+.container{
+ position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 35vw;
+  height: 60%;
+  max-width: 300px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.header{
+    color: white;
+    margin-left: 7vw;
+}
+.input{
+    
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    padding:0.8rem 1rem;
+          width:90%;
+          margin-top: 10px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.tag-container{
+    display: flex;
+    justify-content: center;
+}
+a{
+    margin-top: 13px;
+    margin-left: 4px;
+}
+
+.h{
+    margin-left: 4.5vw;
+}

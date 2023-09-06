@@ -1,0 +1,28 @@
+.home-container
+{
+    position: absolute;
+    border-radius: 4px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 35vw;
+    height: 60%;
+    max-width: 300px;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: rgb(23, 23, 23);
+}
+ol{
+margin-top: 80px;
+}
+h1{
+    margin-left: 15px;
+}
+.start{
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+}
+li{
+    color: white;
+}
